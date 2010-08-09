@@ -6,7 +6,7 @@ Clones GitHub repository by username
 Requirements
 ============
 
-curl.
+curl and git.
 
 Quick Start
 ===========
